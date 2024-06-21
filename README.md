@@ -15,18 +15,6 @@ My expertise lies in building responsive and dynamic web applications using HTML
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Projects
-### [Project Name](Link to Project)
-**Description:** A brief description of the project and what it does.
-
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
-
-[Link to Repository](URL)
-[Live Demo](URL)
-
-![Project Screenshot](URL to Screenshot or GIF)
-
-<!-- Repeat for other projects -->
 
 ## Experience
 - **Frontend Developer** at **[Company Name]**
