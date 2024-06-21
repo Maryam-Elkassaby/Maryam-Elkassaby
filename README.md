@@ -1,19 +1,23 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Maryam Elkassaby 👋 ![Waving Hand](https://media.giphy.com/media/l0MYGBc4U1n3jc4Xu/giphy.gif)
 
 ## About Me
-I'm a [Your Title] with a passion for [Your Interests]. I specialize in [Your Specializations] and enjoy working on projects that involve [Technologies/Fields].
+I'm Maryam Elkassaby, a passionate and dedicated Software Engineer specializing in Frontend Development. I hold a degree in Computer Science from the Faculty of Computer Science, class of 2023. With 2 years of experience in frontend development, I have honed my skills in creating visually appealing and user-friendly websites.
+
+My expertise lies in building responsive and dynamic web applications using HTML, CSS, SASS, JavaScript, and the Bootstrap framework. Additionally, I have a solid background in Tailwind CSS, allowing me to create modern and efficient designs. I thrive on turning complex problems into simple, beautiful, and intuitive interfaces.
 
 ## Skills
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<!-- Add more badges as needed -->
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Projects
 ### [Project Name](Link to Project)
 **Description:** A brief description of the project and what it does.
 
-**Technologies:** [Tech1], [Tech2], [Tech3]
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
 
 [Link to Repository](URL)
 [Live Demo](URL)
@@ -23,23 +27,19 @@ I'm a [Your Title] with a passion for [Your Interests]. I specialize in [Your Sp
 <!-- Repeat for other projects -->
 
 ## Experience
-- **[Job Title]** at **[Company Name]**
-  - Role and responsibilities
-  - Achievements
-
-- **[Previous Job Title]** at **[Previous Company Name]**
-  - Role and responsibilities
-  - Achievements
+- **Frontend Developer** at **[Company Name]**
+  - Developed responsive web applications using HTML, CSS, JavaScript, and Bootstrap.
+  - Collaborated with designers to implement modern and user-friendly interfaces.
+  - Improved website performance and SEO.
 
 ## Education
-- **[Degree]** in **[Field of Study]** from **[University Name]**
+- **Bachelor of Science in Computer Science** from **[University Name]** (2023)
 
 ## Contact Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](URL)
+- **Email:** maryam.elkassaby@example.com
+- **LinkedIn:** [Maryam Elkassaby](URL)
 - **Website:** [Your Personal Website](URL)
 
-<!-- Optional Sections -->
 ## Certifications
 - **[Certification Name]** from **[Issuing Organization]**
 
@@ -51,4 +51,4 @@ I'm a [Your Title] with a passion for [Your Interests]. I specialize in [Your Sp
 - [Hobby2]
 
 ## Testimonials
-- "Testimonial from someone" - **Person's Name**
+- "Maryam's expertise in frontend development is impressive. She has a keen eye for design and a strong ability to translate complex requirements into elegant and functional web solutions." - **Client/Colleague's Name**
