@@ -1,4 +1,4 @@
-# Hi there, I'm Maryam Elkassaby 👋 ![Burgundy Girl](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+# Hi there, I'm Maryam Elkassaby 👋🏾 👩🏾‍💻 ![Burgundy Girl](https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif)
 
 ## About Me
 I'm Maryam Elkassaby, a passionate and dedicated Software Engineer specializing in Frontend Development. I hold a degree in Computer Science from the Faculty of Computer Science, class of 2023. With 2 years of experience in frontend development, I have honed my skills in creating visually appealing and user-friendly websites.
