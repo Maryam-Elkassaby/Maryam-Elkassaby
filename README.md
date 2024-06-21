@@ -1,4 +1,4 @@
-# Hi there, I'm Maryam Elkassaby 👋 ![Waving Hand](https://media.giphy.com/media/l0MYGBc4U1n3jc4Xu/giphy.gif)
+# Hi there, I'm Maryam Elkassaby 👋 ![Waving Hand](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 ## About Me
 I'm Maryam Elkassaby, a passionate and dedicated Software Engineer specializing in Frontend Development. I hold a degree in Computer Science from the Faculty of Computer Science, class of 2023. With 2 years of experience in frontend development, I have honed my skills in creating visually appealing and user-friendly websites.
