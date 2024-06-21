@@ -1,8 +1,8 @@
 # Hi there, I'm Maryam Elkassaby
 
-![Professional Character](https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-3186.jpg)
-
 ## About Me
+<img src="https://img.freepik.com/free-ai-image/view-3d-woman-using-laptop_59999944.htm#&position=3&from_view=user&uuid=056312c2-ef35-4a1c-94b7-a6bc141b030a" alt="3D Woman Using Laptop" align="right" style="border-radius: 50%; width: 150px; height: 150px; margin-left: 20px;">
+
 I'm Maryam Elkassaby, a passionate and dedicated Software Engineer specializing in Frontend Development. I hold a degree in Computer Science from the Faculty of Computer Science, class of 2023. With 2 years of experience in frontend development, I have honed my skills in creating visually appealing and user-friendly websites.
 
 My expertise lies in building responsive and dynamic web applications using HTML, CSS, SASS, JavaScript, and the Bootstrap framework. Additionally, I have a solid background in Tailwind CSS, allowing me to create modern and efficient designs. I thrive on turning complex problems into simple, beautiful, and intuitive interfaces.
