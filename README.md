@@ -16,29 +16,4 @@ My expertise lies in building responsive and dynamic web applications using HTML
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## Experience
-- **Frontend Developer** at **[Company Name]**
-  - Developed responsive web applications using HTML, CSS, JavaScript, and Bootstrap.
-  - Collaborated with designers to implement modern and user-friendly interfaces.
-  - Improved website performance and SEO.
 
-## Education
-- **Bachelor of Science in Computer Science** from **[University Name]** (2023)
-
-## Contact Me
-- **Email:** maryam.elkassaby@example.com
-- **LinkedIn:** [Maryam Elkassaby](URL)
-- **Website:** [Your Personal Website](URL)
-
-## Certifications
-- **[Certification Name]** from **[Issuing Organization]**
-
-## Blog Posts
-- [Title of Blog Post](URL)
-
-## Hobbies
-- [Hobby1]
-- [Hobby2]
-
-## Testimonials
-- "Maryam's expertise in frontend development is impressive. She has a keen eye for design and a strong ability to translate complex requirements into elegant and functional web solutions." - **Client/Colleague's Name**
